@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.local.json
+runtime/
+output/
+outputs/
+full_review/
+__pycache__/
+*.pyc
